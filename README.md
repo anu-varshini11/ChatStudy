@@ -1,5 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-
+### Name: Anu Varshini M B
+### Register Number: 212223240010
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
